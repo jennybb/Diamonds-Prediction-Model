@@ -1,6 +1,6 @@
 # Diamonds-Prediction-Model
 
-This project will is aimed to prediction which predictors are important in diamonds dataset . I will explore spark pipelines, linear regression, feature transformation, model scoring, inference, feature selection, and random forest decision tree models.
+This project will is aimed to prediction which predictors are important in diamonds dataset using PySpark. I will explore spark pipelines, linear regression, feature transformation, model scoring, inference, feature selection, and random forest decision tree models.
 - Build a linear regression predictor selection function
 - Compare three models' MSE score
 
